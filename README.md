@@ -1,2 +1,2 @@
 # first
-first one
+first one to learn git
